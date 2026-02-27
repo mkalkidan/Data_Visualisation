@@ -1,6 +1,6 @@
 Airline Sentiment Analysis: The Class Gap
 A Comparative NLP study analyzing the "Sentiment Gap" between Business and Economy class reviews for 29 major global airlines.
-
+<img width="1026" height="360" alt="newplot" src="https://github.com/user-attachments/assets/b251ec68-b67d-4299-a2ca-d745f1ca4a08" />
 ✈️ Project Overview
 This project uses Natural Language Processing (NLP) to determine if there is a statistically significant difference in passenger satisfaction based on their travel class.
 
@@ -29,4 +29,4 @@ Analysis: Calculated average polarity scores for each cabin type per airline.
 
 Open the Sentiment_analysis.ipynb notebook in Jupyter or VS Code to view the analysis and visualizations.
 
-<img width="1026" height="360" alt="newplot" src="https://github.com/user-attachments/assets/b251ec68-b67d-4299-a2ca-d745f1ca4a08" />
+
